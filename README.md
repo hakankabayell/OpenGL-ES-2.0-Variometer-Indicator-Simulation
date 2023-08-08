@@ -74,3 +74,13 @@ Draws a red progress bar representing the needle's position.
 * destroyEGLContext() Function:
 
 This function destroys the EGL context and surface, cleaning up resources.
+
+
+**********************************************************
+
+OUTPUT
+
+
+https://github.com/hakankabayell/OpenGL-ES-2.0-VariometerIndicatorSimulation/assets/127239422/213dec23-684a-46b1-bdd3-3e99f8b0b2b8
+
+
